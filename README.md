@@ -9,6 +9,7 @@ roslaunch mybot_gazebo mybot_world.launch
 
 
 In Terminal 2, start map building
+- Navigation stack has to be installed: sudo apt-get install ros-kinetic-navigation
 
 roslaunch mybot_navigation amcl_demo.launch
 
