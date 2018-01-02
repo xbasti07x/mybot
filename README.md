@@ -1,5 +1,6 @@
 First development version of the driverless rc-car. This project is a changed version of the mybot project from http://www.moorerobots.com/blog/post/1 .In this iteration the car is configured with a differential drive and ros_naigation stack. 
 To drive it doesnt need a map. If u want to use the map activate the amcl node in the amcl_demo.launch file.
+After cloning the repo use catkin_make to build the project.
  
 **Driving without Map** 
 
